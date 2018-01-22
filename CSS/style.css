@@ -1,0 +1,21 @@
+
+ol{list-style:none;}
+.tplb ol{  /*调整点的位置*/
+position:relative;
+width: 200px;
+height: 20px;
+top:-40px;  /*负数，上移*/
+left:360px;  /*右移*/
+/*background:red;*/
+}
+
+.tplb ol li{  /* 调整切换点的大小*/
+float:left;
+width: 12px;
+height: 12px;
+margin: 5px;
+background:#fff;
+cursor:pointer;
+}
+
+.tplb ol li.seleted{background: #0066cc;}

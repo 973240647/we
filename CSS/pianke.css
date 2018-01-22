@@ -1,0 +1,54 @@
+@charset "utf-8";
+/* CSS Document */
+
+body,ul,li{margin:0; padding:0;}
+
+#main{width:880px; height:180px; /*border:1px solid #F00;*/ position:absolute; top:70px; left:200px;}
+.say{width:200px; height:50px; line-height:50px; color:#000000; font-size:28px; position:absolute; left:30px; top:90px;/* border:1px solid #F00;*/}
+.biaoqing{width:50px; height:22px; /*border:1px solid #F00;*/ background:url(../imgs/pianke-biaoqing.jpg) no-repeat; position:absolute; top:140px; left:250px;}
+.biaoqing:hover{background:url(../imgs/pianke-biaoqing-hover.jpg) no-repeat; cursor:pointer;}
+
+.tupian{width:50px; height:22px; /*border:1px solid #F00;*/ background:url(../imgs/pianke-tupian.jpg) no-repeat; position:absolute; top:140px; left:320px;}
+
+.color{width:50px; height:15px; /*border:1px solid #F00;*/ position:absolute; top:143px; left:380px; font-size:12px; color:#727272;}
+.A{width:19px; height:19px; position:absolute; /*border:1px solid #F00;*/ top:140px; left:450px; background:url(../img/zheye-pianke-liuyankuang-xinqingyanseA.jpg) no-repeat;}
+.A:hover{cursor:pointer;}
+
+.B{width:19px; height:19px; position:absolute; /*border:1px solid #F00;*/ top:140px; left:490px; background:url(../img/zheye-pianke-liuyankuang-xinqingyanseB.jpg) no-repeat;}
+.B:hover{cursor:pointer;}
+
+.C{width:19px; height:19px; position:absolute; /*border:1px solid #F00;*/ top:140px; left:530px; background:url(../img/zheye-pianke-liuyankuang-xinqingyanseC.jpg) no-repeat;}
+.C:hover{cursor:pointer;}
+
+.D{width:19px; height:19px; position:absolute; /*border:1px solid #F00;*/ top:140px; left:570px; background:url(../img/zheye-pianke-liuyankuang-xinqingyanseD.jpg) no-repeat;}
+.D:hover{cursor:pointer;}
+
+.E{width:19px; height:19px; position:absolute; /*border:1px solid #F00;*/ top:140px; left:610px; background:url(../img/zheye-pianke-liuyankuang-xinqingyanseE.jpg) no-repeat;}
+.E:hover{cursor:pointer;}
+
+.F{width:19px; height:19px; position:absolute; /*border:1px solid #F00;*/ top:140px; left:650px; background:url(../img/zhuye-pianke-liuyankuang-xinqingyanseF.jpg) no-repeat;}
+.F:hover{cursor:pointer;}
+
+.zishu{width:50px; height:20px; /*border:1px solid #F00;*/ position:absolute; top:145px; left:700px; font-size:12px; font-weight:bold; color:#000000; line-height:20px;}
+
+.fabu{width:92px; height:31px; /*border:1px solid #F00;*/ position:absolute; top:140px; left:757px; background:url(../img/zheye-pianke-liuyankuang-fabu.jpg) no-repeat;}
+.fabu:hover{cursor:pointer; background:url(../img/zheye-pianke-liuyankuangfabubianseqian.jpg) no-repeat;}
+
+.liyan{width:880px; height:180px; /*border:1px solid #F00;*/ position:absolute; left:200px; top:290px; background:url(../imgs/liuyan.jpg) no-repeat;}
+
+.jiazai{width:880px; height:15px; /*border:1px solid #F00;*/ position:absolute; left:200px; top:510px; background:#CECBCB;}
+.more{width:60px; height:15px; font-size:12px; color:#000000; margin:0 auto; line-height:15px;}
+.more:hover{cursor:pointer;}
+
+
+
+
+
+#footer{width:100%; height:73px; background:#313B47; /*border:1px solid #F00;*/ position:absolute; top:600px;}
+.footer-logo{width:82px; height:73px; float:left; background:url(../imgs/fotr-women.png) no-repeat 0px -1px; /*border:1px solid #F00;*/ margin-left:200px;}
+.what{width:230px; height:55px; float:left; position:relative; background:url(../imgs/what.png) no-repeat; /*border:1px solid #F00;*/ top:10px;}
+.bot-right{width:370px; height:32px; position:absolute; left:920px; float:left; /*border:1px solid #F00;*/ top:20px;}
+.bot-right ul li{text-decoration:none; list-style:none; line-height:32px; float:left; display:block; margin-right:8px;}
+.bot-right li{letter-spacing:2px; font-size:14px;}
+.bot-right li a:hover{cursor:pointer; color:#FFF; text-decoration:underline;}
+a{text-decoration:none; color:#939AA2;}

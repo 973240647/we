@@ -1,0 +1,74 @@
+@charset "utf-8";
+/* CSS Document */
+
+body,li,ul{ margin:0px; padding:0px;}
+
+#tougao{width:100px; height:60px; /*border:1px solid #F00;*/ position:relative; top:50px; left:150px; color:#000; font-size:28px; font-family:"微软雅黑"; letter-spacing:2px;}
+.cika{width:110px; height:80px; /*border:1px solid #F00;*/ position:relative; top:70px; left:310px;}
+.cika-con{width:40px; height:20px; /*border:1px solid #F00;*/ position:relative; top:75px; left:340px; color:#000; font-size:16px; font-family:"微软雅黑"; letter-spacing:2px;}
+
+.zhijue{width:101px; height:81px; /*border:1px solid #F00;*/ position:relative; bottom:35px; left:500px;}
+.zhijue-con{width:40px; height:20px; /*border:1px solid #F00;*/ position:relative; bottom:30px; left:535px; color:#000; font-size:16px; font-family:"微软雅黑"; letter-spacing:2px;}
+
+.ting{width:82px; height:87px; /*border:1px solid #F00;*/ position:relative; left:682px; bottom:140px;}
+.ting-con{width:40px; height:20px; /*border:1px solid #F00;*/ position:relative; left:697px; bottom:141px; color:#000; font-size:16px; font-family:"微软雅黑"; letter-spacing:2px;}
+
+.life{width:100px; height:86px; /*border:1px solid #F00;*/ position:relative; left:844px; bottom:250px;}
+.life-con{width:60px; height:20px; /*border:1px solid #F00;*/ position:relative; left:859px; bottom:251px; color:#000; font-size:16px; font-family:"微软雅黑"; letter-spacing:2px;}
+
+.app{width:103px; height:89px; /*border:1px solid #F00;*/ position:relative; left:1024px; bottom:363px;}
+.app-con{width:80px; height:20px; /*border:1px solid #F00;*/ position:relative; left:1029px; bottom:364px; color:#000; font-size:16px; font-family:"微软雅黑"; letter-spacing:2px;}
+
+.hr1{height:9px; position:relative; /*border:1px solid #F00;*/ left:300px; bottom:320px;}
+
+.demand{width:70px; height:20px; /*border:1px solid #F00;*/ position:relative; left:420px; bottom:280px; color:#000; font-size:14px; font-family:"微软雅黑"; letter-spacing:2px;}
+
+.require{width:600px; height:60px; /*border:1px solid #F00;*/ position:relative; left:420px; bottom:260px;}
+.require p{color:#000; font-size:14px; font-family:"微软雅黑"; letter-spacing:2px;}
+
+.tijiao{width:79px; height:28px; /*border:1px solid #F00;*/ position:relative; bottom:130px; left:660px; background:url(../imgs/tougao-tijiao.png) no-repeat;}
+.tijiao:hover{cursor:pointer; background:url(../imgs/tougao-tijiao-hover.png) no-repeat;}
+
+#footer{width:100%; height:73px; background:#313B47;}
+.footer-logo{width:82px; height:73px; float:left; background:url(../imgs/fotr-women.png) no-repeat 0px -1px; /*border:1px solid #F00;*/ margin-left:200px;}
+.what{width:230px; height:55px; float:left; position:relative; background:url(../imgs/what.png) no-repeat; /*border:1px solid #F00;*/ top:10px;}
+.right{width:370px; height:32px; position:relative; float:right; /*border:1px solid #F00;*/ top:20px; right:56px;}
+.right ul li{text-decoration:none; list-style:none; float:left; display:block; margin-right:8px; line-height:32px;}
+.right li{letter-spacing:2px; font-size:14px;}
+.right li a:hover{cursor:pointer; color:#FFF; text-decoration:underline;}
+a{text-decoration:none; color:#939AA2;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
